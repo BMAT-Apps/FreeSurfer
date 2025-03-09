@@ -1,0 +1,7 @@
+{
+	"name": "FreeSurfer",
+	"source_code": "FreeSurfer.py",
+	"import_name": "FreeSurfer",
+	"attr": "FreeSurfer",
+	"add_info":{"use_docker":false, "sss_slurm_no":"FreeSurfer_sss.json"}
+}
